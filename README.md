@@ -4,9 +4,11 @@
 
 <h2>Lista de projetos</h2>
 	<ul>
-		<li><a href="https://github.com/brunombs/Swift/tree/main/1%20-%20I%20am%20Rich">I am Rich</a></li>
-		<li><a href="https://github.com/brunombs/Swift/tree/main/2%20-%20I%20am%20Poor">I am Poor</a></li>
-		<li><a href="https://github.com/brunombs/Swift/tree/main/3%20-%20Dice">Dice</a></li>
-		<li><a href="https://github.com/brunombs/Swift/tree/main/4%20-%20Magic%208%20Ball/Magic-8-Ball-iOS13"</a>Magic 8 Ball</li>
-		<li><a href="https://github.com/brunombs/Swift/tree/main/5%20-%20Auto%20Layout/AutoLayout-iOS13"</a>Auto Layout</li>
+		<li><a href="https://github.com/brunombs/Swift/tree/main/1-%20I%20am%20Rich">I am Rich</a></li>
+		<li><a href="https://github.com/brunombs/Swift/tree/main/2-%20I%20am%20Poor">I am Poor</a></li>
+		<li><a href="https://github.com/brunombs/Swift/tree/main/3-%20Dice">Dice</a></li>
+		<li><a href="https://github.com/brunombs/Swift/tree/main/4-%20Magic%208%20Ball"</a>Magic 8 Ball</li>
+		<li><a href="https://github.com/brunombs/Swift/tree/main/5-%20Auto%20Layout"</a>Auto Layout</li>
+		<li><a href="https://github.com/brunombs/Swift/tree/main/6-%20Calculator"</a>Calculator</li>
+		<li><a href="https://github.com/brunombs/Swift/tree/main/7-%20Xylophone"</a>Xylophone</li>
 	</ul>
